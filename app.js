@@ -12,6 +12,8 @@
 //     console.log(`connection is setup at ${port}`);  
 // })
 
+//another way to code
+
 const express = require('express');
 const connectDB = require('./db/conn');
 connectDB();
